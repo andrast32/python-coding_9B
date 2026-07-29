@@ -146,6 +146,4 @@ Kemungkinan terdapat perubahan, penambahan, maupun perbaikan materi selama prose
 
 *"The best way to learn programming is by writing code."*
 
-**Copyright © 2026 | by Andrast**
-
 </div>
