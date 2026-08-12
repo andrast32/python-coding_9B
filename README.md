@@ -53,7 +53,7 @@ Selama kelas berlangsung, peserta akan mempelajari berbagai konsep dasar Python,
 | Pertemuan | Materi | Status |
 |-----------|--------|--------|
 | 1 | Pengenalan Python | Done |
-| 2 | Variabel dan Tipe Data | ⏳ Menunggu |
+| 2 | Variabel dan Tipe Data | Done |
 | 3 | Operasi aritmatika | ⏳ Menunggu |
 | 4 | Pengkondisian | ⏳ Menunggu |
 | 5 | Percabangan | ⏳ Menunggu |
@@ -74,8 +74,10 @@ python-coding_9B/
 │
 ├── challenges/
 │   ├── fungsi_print.py
-|
+|   ├── form_input.py
+│
 ├── pertemuan1.py
+├── pertemuan2.py
 ├── ...
 └── README.md
 ```
